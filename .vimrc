@@ -1,4 +1,4 @@
-
+echo ".vimrc"
 " Use the Solarized Dark theme
 set background=dark
 
